@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="3.tratando-condicionais-e-erros" value="1.trabalhando-com-a-sintaxe-e-configuracao-de-projeto" />
+      </map>
+    </option>
+  </component>
+</project>
