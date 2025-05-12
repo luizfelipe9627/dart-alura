@@ -1,0 +1,6 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+
+# Arquivo que contém a chave de API do GitHub
+lib/api_key.dart

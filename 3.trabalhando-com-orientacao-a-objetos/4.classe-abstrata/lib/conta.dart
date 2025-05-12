@@ -1,5 +1,5 @@
-// Criado uma classe Conta para representar uma conta bancária de Matheus
-class Conta {
+// Criado uma classe Conta para representar uma conta bancária de Matheus, o abstrato é uma classe que não pode ser instanciada, ou seja, não pode ser criada uma nova instância dela, mas pode ser herdada por outras classes
+abstract class Conta {
   // Cria um atributo chamado titular do tipo String que armazena o nome do titular da conta
   String titular;
   // Cria um atributo chamado saldo do tipo double que armazena o saldo da conta

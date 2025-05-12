@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/1.entendendo-pacotes-e-requisicoes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/1.entendendo-pacotes-e-requisicoes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1.entendendo-pacotes-e-requisicoes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/2.capturando-pacotes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2.capturando-pacotes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2.capturando-pacotes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/3.enviando-informacoes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/3.enviando-informacoes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/3.enviando-informacoes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/4.lidando-com-streams-e-modelos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/4.lidando-com-streams-e-modelos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/4.lidando-com-streams-e-modelos/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
