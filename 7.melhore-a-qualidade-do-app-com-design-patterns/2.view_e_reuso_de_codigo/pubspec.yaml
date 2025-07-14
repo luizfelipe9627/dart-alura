@@ -1,0 +1,31 @@
+name: cinetopia
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # O assets é onde você coloca os arquivos de imagem, fontes e outros recursos que serão usados no aplicativo.
+  # Certifique-se de que os caminhos estão corretos e que os arquivos existem.
+  # Você pode adicionar mais arquivos conforme necessário.
+  # Exemplo: assets/your_image.png
+  # Exemplo: assets/fonts/your_font.ttf
+  assets:
+    - assets/logo.png
+    - assets/movie.png
+    - assets/popular.png
+    - assets/splash.png
+    - assets/upcoming.png
